@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jonasgsf
+- 👀 I’m interested in programming jobs
+- 🌱 I’m currently learning python, html, css, javascript... +
+- 💞️ I’m looking to collaborate on automation files
+- 📫 How to reach me - https://jonasgsf.github.io/
